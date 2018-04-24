@@ -1,5 +1,5 @@
 ---
-title: "Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera"
+title: <font color="blue">Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera</blue>
 collection: publications
 permalink: /publications/2017-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
 date: 2017-6-11
