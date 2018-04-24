@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 * I am currently working toward the Ph.D. degree in control science and engineering with Shanghai Jiao Tong University, Shanghai, China. I received the B.S. degree in Automation from Hunan University, Changsha, Hunan, China, in 2015. 
-* My main research topics include computer vision, deep learning and perception in self-driving cars. I am currently working to optimize percetion algorithms in self-driving car using deep learning, both in accuracy and efficiency. Effective perception is the basis for safe driving of self-driving cars.
+* My main research topics include computer vision, deep learning and perception in self-driving cars. I am currently working to optimize perception algorithms in self-driving car using deep learning, both in accuracy and efficiency. Effective perception is the basis for safe driving of self-driving cars.
 
 
 Recent Posts
