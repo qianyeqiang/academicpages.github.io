@@ -1,5 +1,5 @@
 ---
-title: <font color="blue"> "Pedestrian Feature Generation in Fish-eye Images via Adversary" </font>
+title: <font color="blue"> Pedestrian Feature Generation in Fish-eye Images via Adversary </font>
 collection: publications
 permalink: /publications/Pedestrian Feature Generation in Fish-eye Images via Adversary
 venue: "International Conference on Robotics and Automation (ICRA 2018)"
