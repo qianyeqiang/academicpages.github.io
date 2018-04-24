@@ -1,5 +1,5 @@
 ---
-title: "CNN based Semantic Segmentation for Urban Traffic Scenes using Fisheye Camera"
+title: <font color="blue">CNN based Semantic Segmentation for Urban Traffic Scenes using Fisheye Camera</font>
 collection: publications
 permalink: /publication/2017-6-11-CNN based Semantic Segmentation for Urban Traffic Scenes using Fisheye Camera
 date: 2017-6-11
