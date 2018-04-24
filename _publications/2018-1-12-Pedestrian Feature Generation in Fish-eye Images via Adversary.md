@@ -2,7 +2,6 @@
 title: "Pedestrian Feature Generation in Fish-eye Images via Adversary"
 collection: publications
 permalink: /publications/2018-1-12-Pedestrian Feature Generation in Fish-eye Images via Adversary
-date: 2018-1-12
 excerpt: '<b>Yeqiang Qian</b>, Ming Yang*, Chunxiang Wang and Bing Wang. <i>International Conference on Robotics and Automation</i>. <b>ICRA 2018</b>.'
 ---
 
