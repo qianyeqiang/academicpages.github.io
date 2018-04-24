@@ -14,3 +14,5 @@ Three contributions are made in this work. First, a general model called Descrip
 [[PDF]](http://academicpages.github.io/files/G2P A New Descriptor for Pedestrian Detection.pdf)
 
 
+
+
