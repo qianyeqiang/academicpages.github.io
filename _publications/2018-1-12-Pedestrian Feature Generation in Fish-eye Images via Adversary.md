@@ -1,5 +1,5 @@
 ---
-title: "Pedestrian Feature Generation in Fish-eye Images via Adversary"
+title: "<b>Pedestrian Feature Generation in Fish-eye Images via Adversary</b>"
 collection: publications
 permalink: /publications/Pedestrian Feature Generation in Fish-eye Images via Adversary
 venue: "International Conference on Robotics and Automation (ICRA 2018)"
