@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-12-15-G2P A New Descriptor for Pedestrian Detection
 excerpt: 'This paper is about the descriptor generation for pedestrian.'
 date: 2017-12-15
-venue: 'Journal 1'
+venue: 'December 15'
 paperurl: 'http://qianyeqiang.github.io/files/G2P A New Descriptor for Pedestrian Detection.pdf'
 citation: 'Ming Yang, Yeqiang Qian, Linji Xue, Hao Li, Liuyuan Deng and Chunxiang Wang (2017). &quot; G2P: A New Descriptor for Pedestrian Detection.&quot; <i> Pages: 411 - 416</i>.'
 ---
