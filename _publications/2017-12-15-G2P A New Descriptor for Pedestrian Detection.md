@@ -1,5 +1,5 @@
 ---
-title: "G2P: A New Descriptor for Pedestrian Detection"
+title: <font color="blue">G2P A New Descriptor for Pedestrian Detection</font>
 collection: publications
 permalink: /publications/G2P A New Descriptor for Pedestrian Detection
 venue: 'IEEE International Conference on Security, Pattern Analysis, and Cybernetics (ICSPAC 2017)'
