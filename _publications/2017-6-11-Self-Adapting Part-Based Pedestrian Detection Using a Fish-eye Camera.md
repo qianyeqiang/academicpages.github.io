@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2017-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
 date: 2017-6-11
 venue: 'IEEE Intelligent Vehicles Symposium (IV 2017)'
-excerpt:'<b>Yeqiang Qian</b>, Ming Yang*, Chunxiang Wang and Bing Wang. <i>IEEE Intelligent Vehicles Symposium</i>. <b>IV 2017</b>'
+excerpt:'<b>Yeqiang Qian</b>, Ming Yang*, Chunxiang Wang and Bing Wang. <i>IEEE Intelligent Vehicles Symposium</i>. <b>IV 2017</b>.'
 ---
 
 
