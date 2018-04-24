@@ -3,8 +3,8 @@ title: "G2P: A New Descriptor for Pedestrian Detection"
 collection: publications
 permalink: /publication/2017-12-15-G2P A New Descriptor for Pedestrian Detection
 date: 2017-12-15
-venue: 'IEEE International Conference on Security, Pattern Analysis, and Cybernetics'
-paperurl: 'http://qianyeqiang.github.io/files/G2P A New Descriptor for Pedestrian Detection.pdf'
+venue: 'Ming Yang, <b>Yeqiang Qian</b>, Linji Xue, Hao Li, Liuyuan Deng and Chunxiang Wang. <i>IEEE International Conference on Security, Pattern Analysis, and Cybernetics</i>. <b>ICSPAC 2017</b>'
+paperurl: 'http://qianyeqiang.github.io/files/G2P A New Descriptor for Pedestrian Detection'
 citation: 'Ming Yang, <b>Yeqiang Qian</b>, Linji Xue, Hao Li, Liuyuan Deng and Chunxiang Wang. <i>IEEE International Conference on Security, Pattern Analysis, and Cybernetics</i>. <b>ICSPAC 2017</b>'
 ---
 ## Abstract
