@@ -1,16 +1,13 @@
 ---
 title: "Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera"
 collection: publications
-permalink: /publication/2017-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
-excerpt: 'This paper is about the adaptive pedestrian detection in fish-eye images.'
+permalink: /publications/2017-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
 date: 2017-6-11
-venue: 'June 11'
-paperurl: 'http://qianyeqiang.github.io/files/Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera.pdf'
-citation: 'Yeqiang Qian, Ming Yang, Chunxiang Wang and Bing Wang (2017). &quot;Self-Adapting Part-Based Pedestrian Detection Using 
-a Fish-eye Camera.&quot; Pages: 33 - 38.'
+venue: 'Intelligent Vehicles Symposium (IV 2017)'
+citation: '<b>Yeqiang Qian</b>, Ming Yang, Chunxiang Wang and Bing Wang. <i>IEEE Intelligent Vehicles Symposium</i>. <b>IV 2017</b>
 ---
-This paper is about the number 11. The number 12 is left for future work.
+## Abstract
+Nowadays, fish-eye cameras play an increasingly important role in intelligent vehicles because of its wide field of view. Using fish-eye camera, pedestrians around the vehicles could be monitored expediently, but the problem of pedestrian distortion has always existed. This paper creates a new warping pedestrian benchmark using imaging principle of the fish-eye camera based on ETH pedestrian benchmark. With this practical benchmark, warping pedestrians are trained differently according to the position in fish-eye images. A self-adapting part-based algorithm is proposed to detect pedestrian with different degrees of deformation. Moreover, GPU is used to accelerate the whole algorithm to guarantee the real-time performance. Experiments show that the algorithm has competitive accuracy.
 
-[Download paper here](http://qianyeqiang.github.io/files/paper1.pdf)
+[Download paper here](http://qianyeqiang.github.io/files/Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
