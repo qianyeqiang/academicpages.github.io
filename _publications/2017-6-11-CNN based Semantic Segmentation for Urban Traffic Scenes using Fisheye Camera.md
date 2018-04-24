@@ -2,7 +2,6 @@
 title: "CNN based Semantic Segmentation for Urban Traffic Scenes using Fisheye Camera"
 collection: publications
 permalink: /publication/2017-6-11-CNN based Semantic Segmentation for Urban Traffic Scenes using Fisheye Camera
-excerpt: 'This paper is about semantic segmentation for urban traffic scenes.'
 date: 2017-6-11
 venue: 'IEEE Intelligent Vehicles Symposium (IV 2017)'
 citation: 'Liuyuan Deng, Ming Yang, Yeqiang Qian, Chunxiang Wang, and Bing Wang (2017). &quot;CNN based Semantic Segmentation for Urban 
