@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yeqiang Qian 钱烨强"
+title                    : "Yeqiang Qian's Homepage"
 title_separator          : "-"
 name                     : &name "Yeqiang Qian"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yeqiang Qian"
+  name             : "Yeqiang Qian 钱烨强"
   avatar           : "qianyeqiang.png"
   bio              : "Ph.D. Graduate, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
