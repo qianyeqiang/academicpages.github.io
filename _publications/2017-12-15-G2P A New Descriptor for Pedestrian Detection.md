@@ -1,5 +1,5 @@
 ---
-title: "● G2P: A New Descriptor for Pedestrian Detection"
+title: "G2P: A New Descriptor for Pedestrian Detection"
 collection: publications
 permalink: /publications/2017-12-15-G2P A New Descriptor for Pedestrian Detection
 date: 2017-12-15
