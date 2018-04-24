@@ -1,7 +1,7 @@
 ---
 title: <font color="blue"> G2P: A New Descriptor for Pedestrian Detection </font>
 collection: publications
-permalink: /publications/2017-12-15-G2P A New Descriptor for Pedestrian Detection
+permalink: /publications/G2P A New Descriptor for Pedestrian Detection
 venue: 'IEEE International Conference on Security, Pattern Analysis, and Cybernetics (ICSPAC 2017)'
 date: 2017-12-15
 excerpt: 'Ming Yang, <b>Yeqiang Qian</b>, Linji Xue, Hao Li, Liuyuan Deng and Chunxiang Wang*. <i>IEEE International Conference on Security, Pattern Analysis, and Cybernetics</i>. <b>ICSPAC 2017</b>.'
