@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Pedestrian Feature Generation in Fish-eye Images via Adversary
 venue: "International Conference on Robotics and Automation (ICRA 2018)"
 date: 2018-1-12
-citation: '<b>Yeqiang Qian</b>, Ming Yang*, Chunxiang Wang and Bing Wang. <i>International Conference on Robotics and Automation</i>. <b>ICRA 2018</b>.'
+excerpt: '<b>Yeqiang Qian</b>, Ming Yang*, Chunxiang Wang and Bing Wang. <i>International Conference on Robotics and Automation</i>. <b>ICRA 2018</b>.'
 ---
 
 
