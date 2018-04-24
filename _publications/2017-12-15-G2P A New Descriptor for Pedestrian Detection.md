@@ -1,5 +1,5 @@
 ---
-title: "<span style="color:blue">G2P: A New Descriptor for Pedestrian Detection</span>"
+title: "<b><span style="color:blue">G2P: A New Descriptor for Pedestrian Detection</span></b>"
 collection: publications
 permalink: /publications/2017-12-15-G2P A New Descriptor for Pedestrian Detection
 date: 2017-12-15
