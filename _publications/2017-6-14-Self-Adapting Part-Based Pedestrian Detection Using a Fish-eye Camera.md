@@ -1,7 +1,7 @@
 ---
 title: "Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera"
 collection: publications
-permalink: /publication/2018-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
+permalink: /publication/2017-6-14-Self-Adapting Part-Based Pedestrian Detection Using a Fish-eye Camera
 excerpt: 'This paper is about the adaptive pedestrian detection in fish-eye images.'
 date: 2017-6-14
 venue: 'Journal 1'
