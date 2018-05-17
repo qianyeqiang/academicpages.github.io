@@ -18,6 +18,7 @@ redirect_from:
 
 Recent Posts
 ======
+* 2018.5.16 I complete Self-Driving Car Engineer Course in Udacity and get the certificate.
 * 2018.1.12 One paper is accepted by IEEE International Conference on Robotics and Automation (ICRA 2018).
 * 2017.12.15 I attend IEEE International Conference on Security, Pattern Analysis, and Cybernetics (ICSPAC 2017 in Shenzhen, China) and make oral presentation.
 * 2017.11.25 I attend Intelligent Vehicle Future Challenge (IVFC 2017) as a core member of our team. IVFC is the largest real self-driving car competition in China. I take charge of vehicle and pedestrian perception tasks.
