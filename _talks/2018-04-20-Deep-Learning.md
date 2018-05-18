@@ -8,4 +8,5 @@ date: 2018-04-20
 location: "Shanghai, China"
 ---
 
+
 The Talking is mainly about the introduction of Artificial Intelligence and Deep Learning. The talk contains 5 parts, including the history, the principle, the application, the rudiments and the future of deep learning.
