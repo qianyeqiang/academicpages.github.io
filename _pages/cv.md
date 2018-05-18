@@ -23,7 +23,7 @@ Publications
   
 Practice Experience
 ======
-* Intelligent Vehicle Future Challenge 2018 (2018.6)
+* Intelligent Vehicle Future Challenge 2018 (2018.6 expected)
   * The largest self-driving car competition in China
   * Leader
   * Guided Team members to finish a real self-driving car and attend the competition
