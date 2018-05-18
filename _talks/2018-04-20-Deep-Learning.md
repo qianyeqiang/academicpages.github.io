@@ -8,4 +8,4 @@ date: 2018-04-20
 location: "Shanghai, China"
 ---
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+The Talking is mainly about the introduction of Artificial Intelligence and Deep Learning. The talk contains 5 parts, including the history, the principle, the application, the rudiments and the future of deep learning.
