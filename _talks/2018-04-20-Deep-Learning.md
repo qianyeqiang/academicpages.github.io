@@ -8,6 +8,7 @@ date: 2018-04-20
 location: "Shanghai, China"
 ---
 
+
 <p align="center">
   <img src="https://qianyeqiang.github.io/images/Intelligent Control System.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
