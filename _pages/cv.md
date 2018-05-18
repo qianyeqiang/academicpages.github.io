@@ -11,30 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Automation, Hunan University, 2015
+* Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2020 (expected)
 
 Publications
 ======
@@ -42,18 +20,55 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+Practice Experience
+======
+* Intelligent Vehicle Future Challenge 2018 (2018.6)
+  * The largest self-driving car competition in China
+  * Leader
+  * Guided Team members to finish a real self-driving car and attend the competition
+* Intelligent Vehicle Future Challenge 2017 (2017.12)
+  * Core member
+  * Taking charge of all the perception tasks in self-driving cars
+* Intelligent Vehicle Future Challenge 2016 (2016.12)
+  * Core member
+  * Taking charge of pedestrian detection task in self-driving cars
+
+  
+Skills
+======
+* Good knowledge of computer vision and deep learning
+* Good knowledge of all the tasks about self-driving car
+* Skilled in Python and C++ programing languages
+* Skilled in TensorFlow and Caffe deep learning framework
+* Fluent academic communication ability in English
+  
+Research Projects
+======
+* International Chair on automated driving of ground vehicle
+  * An international cooperation project among SJTU, UCB, EPFL and MINES ParisTech
+  * Taking charge of vehicle and pedestrian detection tasks
+  * Ranking top 10 for vehicle and top 5 for pedestrian in KITTI detection benchmark
+* Key Technique Research of Pedestrian Detection and Intention Analysis Focusing on Urban Environment
+  * A national project from National Natural Science Foundation of China
+  * Taking charge of pedestrian detection and intention analysis tasks
+  * Two top conference papers are published for accurate pedestrian detection using fish-eye cameras
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
+{%
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ %}
