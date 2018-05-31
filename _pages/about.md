@@ -18,7 +18,7 @@ redirect_from:
 
 Recent Posts
 ======
-* 2018.5.21 I attend IEEE International Conference on Robotics and Automation (ICRA 2018) and make the interactive presentation. 
+* 2018.5.21 I attend IEEE International Conference on Robotics and Automation (ICRA 2018 in Brisbane, Australia) and make the interactive presentation. 
 * 2018.5.16 I complete Self-Driving Car Engineer Course in Udacity and get the certificate.
 * 2018.1.12 One paper is accepted by IEEE International Conference on Robotics and Automation (ICRA 2018).
 * 2017.12.15 I attend IEEE International Conference on Security, Pattern Analysis, and Cybernetics (ICSPAC 2017 in Shenzhen, China) and make oral presentation.
