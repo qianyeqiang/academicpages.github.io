@@ -18,7 +18,7 @@ redirect_from:
 
 Recent Posts
 ======
-* 2018.6.4 I am awarded a schlarship from the State Scholarship Fund by the Chinese Scholarship Council (CSC). I will be a joint PhD. student at Carnegie Mellon Universtiy (CMU) from 3/Dec/2018 to 31/May/2019.
+* 2018.6.4 I am awarded a schlarship from the State Scholarship Fund by the Chinese Scholarship Council (<font color="red">CSC</font>). I will be a joint PhD. student at Carnegie Mellon Universtiy (CMU) from 3/Dec/2018 to 31/May/2019.
 * 2018.5.21 I attend IEEE International Conference on Robotics and Automation (ICRA 2018 in Brisbane, Australia) and make the interactive presentation. 
 * 2018.5.16 I complete Self-Driving Car Engineer Course in Udacity and get the certificate.
 * 2018.1.12 One paper is accepted by IEEE International Conference on Robotics and Automation (ICRA 2018).
