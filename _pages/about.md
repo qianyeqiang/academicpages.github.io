@@ -16,7 +16,7 @@ redirect_from:
 * My main research topic is mainly about perception in self-driving cars using cameras and lidars. Effective perception, both in accuracy and efficiency, is the basis for safe driving of self-driving cars. I am currently working to optimize perception algorithms in self-driving car using deep learning, including object detection, tracking and prediction. 
 * I am currently the leader of laboratory team, I will guide the team to attend Intelligent Vehicle Future Challenge (IV 2018) in November 2018, Changshu, Jiangsu.
 
-Wechat: qianyeqiang E-mail:qianyeqiang@sjtu.edu.cn
+Wechat: qianyeqiang E-mail: qianyeqiang@sjtu.edu.cn
 
 Recent Posts
 ======
