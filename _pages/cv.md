@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Hunan University, 2015
 * Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2020 (expected)
-* Joint Ph.D in Robotics Institute, Carnegie Mellon University, form Dec. 2018 to May. 2019. 
+* Joint Ph.D in Robotics Institute, Carnegie Mellon University, from Dec. 2018 to May. 2019. 
 
 Publications
 ======
@@ -28,14 +28,15 @@ Practice Experience
   * The largest self-driving car competition in China
   * Leader
   * Guided Team members to finish a real self-driving car and attend the competition
-  * Champion in off-line competition and fourth place in highway competition
+  * Champion in the off-line competition and fourth place in the highway competition
 * Intelligent Vehicle Future Challenge 2017 (2017.11)
   * Core member
   * Taking charge of all the perception tasks in self-driving cars
+  * Second place in the off-line competition
 * Intelligent Vehicle Future Challenge 2016 (2016.11)
   * Core member
   * Taking charge of pedestrian detection task in self-driving cars
-  * Champion in off-line competition
+  * Champion in the off-line competition
 
   
 Skills
