@@ -7,10 +7,10 @@ venue: "Intelligent Vehicle"
 date: 2018-11-30
 location: "Shanghai, China"
 ---
-The Talking is mainly about the introduction of tensorflow introduction and Deep Learning. 
+The talking is mainly about the introduction of tensorflow and deep learning. 
 
 <p align="center">
-  <img src="https://qianyeqiang.github.io/images/Intelligent Control System.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://qianyeqiang.github.io/images/TensorFlow_Introduction1.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
 The talk contains 4 parts, including the liner classfier, the deep neural network, the convolutional neural network and TensorFlow.
