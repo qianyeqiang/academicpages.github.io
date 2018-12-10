@@ -14,4 +14,4 @@ The talking is mainly about the introduction of TensorTlow and deep learning.
   <img src="https://qianyeqiang.github.io/images/TensorFlow_Introduction1.jpg?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 
-The talk contains 4 parts, including the liner classfier, the deep neural network, the convolutional neural network and TensorFlow.
+The talk contains 4 parts, including the linear classfier, the deep neural network, the convolutional neural network and TensorFlow.
