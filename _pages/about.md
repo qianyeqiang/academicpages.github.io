@@ -20,7 +20,7 @@ Wechat: qianyeqiang  E-mail: qianyeqiang@sjtu.edu.cn
 
 Recent Posts
 ======
-* 2018.12.3 I am awarded a schlarship from the State Scholarship fund by the Chinese Scholarship Council (<font color="red">CSC</font>). I will be a joint PhD. student in Prof. <font color="red">John M. Dolan</font>'s lab at Carnegie Mellon Universtiy (<font color="red">CMU</font>) from Dec/3/2018 to May31/2019.
+* 2018.12.3 I am awarded a schlarship from the State Scholarship fund by the Chinese Scholarship Council (<font color="red">CSC</font>). I will be a joint PhD. student in Prof. <font color="red">John M. Dolan</font>'s lab at Carnegie Mellon Universtiy (<font color="red">CMU</font>) from Dec/3/2018 to May/31/2019.
 * 2018.11.18 I attend Intelligent Vehicle Future Challenge (<font color="red">IVFC 2018</font>) as a team leader. IVFC is the largest real self-driving car competition in China. Our team win <font color="red">the champion in off-line competition</font> named on-road person monitoring. And our team win <font color="red">the fourth place in real highway competition</font>.
 * 2018.5.21 I attend IEEE International Conference on Robotics and Automation (<font color="red">ICRA 2018</font> in Brisbane, Australia) and make the interactive presentation. 
 * 2018.5.16 I complete <font color="red">Self-Driving Car Engineer Course</font> in Udacity and get the certificate.
