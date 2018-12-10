@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Hunan University, 2015
 * Ph.D in Control Science and Engineering, Shanghai Jiao Tong University, 2020 (expected)
-* Joint Ph.D in Robotics Institute, Carnegie Mellon University, from Dec. 2018 to May. 2019. 
+* Joint Ph.D in Robotics Institute, Carnegie Mellon University, from Dec. 2018 to May. 2019
 
 Publications
 ======
@@ -21,7 +21,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+  s
 Practice Experience
 ======
 * Intelligent Vehicle Future Challenge 2018 (2018.11)
@@ -42,7 +42,7 @@ Practice Experience
 Skills
 ======
 * Good knowledge of computer vision and deep learning
-* Good knowledge of all the tasks about self-driving car
+* Good knowledge of all the tasks about self-driving cars
 * Skilled in Python and C++ programing languages
 * Skilled in TensorFlow and Caffe deep learning framework
 * Fluent academic communication ability in English
