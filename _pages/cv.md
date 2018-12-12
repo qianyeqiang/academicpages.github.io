@@ -21,7 +21,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  s
 Practice Experience
 ======
 * Intelligent Vehicle Future Challenge 2018 (2018.11)
